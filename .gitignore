@@ -1,0 +1,9 @@
+node_modules/
+client/dist/
+client/android/
+.env
+client/.env.local
+client/.env.production
+server/data/
+secrets/*.json
+*.log

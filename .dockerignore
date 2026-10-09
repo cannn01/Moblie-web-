@@ -1,0 +1,11 @@
+node_modules
+**/node_modules
+**/dist
+**/android
+.git
+.env
+secrets
+server/data
+**/.env.local
+**/.env.production
+**/.env.development
